@@ -1,0 +1,478 @@
+
+20:23:49 From Uğur Özşahin to Everyone:
+	Merhaba, ben Uğur Özşahin. Konya Teknik Üniversitesi #bilgisayarmuhendisligi 4. sınıf öğrencisiyim. Daha çok #flutter, #iot ve #backend alanlarında çalışıyorum. 2016 yılından beri yazılımla iç içeyim iletişimde olmak isterseniz Linkedin hesabımı bırakıyorum. https://www.linkedin.com/in/u%C4%9Fur-%C3%B6z%C5%9Fahin-62a9651b1/
+
+20:23:53 From Ozlem Akgonul to Everyone:
+	Selamlar ben Özlem Akgönül, #teknoloji alanında birçok uluslararası şirkette farklı pozisyonlarda çalıştım. Mobil dünyanın iş geliştirme ve pazarlama tarafındayım. Mobilin yazılım tarafını da öğrenmek için buradayım 🙂 LinkedIn: https://www.linkedin.com/in/ozlemakgonul/
+
+20:24:09 From AYŞE SEZEN DOĞAN to Everyone:
+	#Proje Merhaba ben Ayşe Sezen Doğan. Yıldız Teknik Üniversitesi’nde Grafik Tasarım okuyorum. Grafik tasarım, 2D ve 3B sanatla ilgileniyorum. Linkedin hesabım: https://www.linkedin.com/in/aysesezendogan/
+
+20:24:32 From Hamza zahid to Everyone:
+	#proje #girisim 
+	Selamlar, ben Seyyid Hamza Zahid. 
+	3 yıla yakın bir süredir girişimcilik ekosistemindeyim. Başlangıçta online oyun oynayan kişileri eşleştirdiğimiz bir girişim ile başlangıç yaptık ve yatırım tecrübemiz oldu. Şu an farklı bir proje üzerine çalışıyorum. Aynı zamanda kendimi mobil programlama tarafında geliştiriyorum. Girişim ve mobil uygulama tarafında elimden gelen desteği vermek isterim. Birlikte bir şeyler yapabiliriz. 
+	
+	https://www.linkedin.com/in/zahidhamza0/
+
+20:24:36 From Beyza Balım Camgöz to Everyone:
+	#ankara merhabalar, Ben Beyza Balım Camgöz. TED Üniversitesi PDR 2.sınıf öğrencisiyim. Aynı zamanda işletmeden yandal yapıyorum. aktif olmayı bir grubu yönetmeyi çok seviyorum.  #girişim üzerinde düşünmek, planlamak, geliştirmek büyük zevk alıyorum.https://www.linkedin.com/in/beyza-bal%C4%B1m-camg%C3%B6z-043a00240/
+
+20:25:22 From Emirhan Hasırcı to Everyone:
+	Merhabalar ben Emirhan Hasırcı, Bartın Üniversitesi Bilgisayar Mühendisliği 3. Sınıf öğrencisiyim, aynı zamanda bu sene Google Developer Student Clubs Bartın Üniversitesinin kurucu lideriyim.	2018 yılından beri yazılım ve oyun geliştirme ile ilgileniyorum. Full-Stack ve Indie Game Developer olarak kariyerimde ilerliyorum.	#proje #oyungelistirme #oyun #web #webgelistirme ile ilgili projelere açığım.	Hepiniz ile tanıştığıma memnun oldum. 🙏	https://www.linkedin.com/in/emirhanhasirci/
+
+20:25:31 From Çağla KEFELİOĞLU to Everyone:
+	#proje #trabzon merhabalar, ben Çağla KEFELİOĞLU, Yazılım Mühendisliği mezunuyum. Daha önce mobil uygulama geliştirdim. Veri bilimi ile ilgileniyorum, bahar döneminde yüksek lisansımı bu alanda yapacağım. Şu an flutter ile uygulama geliştirme konusunda çalışıyorum. Çeşitli startuplarda da mobil developer olarak yer aldım. https://www.linkedin.com/in/%C3%A7a%C4%9Fla-kefelio%C4%9Flu-1b4b8b222/
+
+20:25:53 From Sude to Everyone:
+	Merhaba, ben Sudenur Şenkal. Yalova Üniversitesi bilgisayar mühendisliği bölümü 3. sınıf öğrencisiyim. Back-end ile ilgili staj arıyorum ve Java Spring üzerine çalışmak istiyorum. Ayrıca gönüllü projelerde yer almayı çok seviyorum. Kodluyoruz'da gönüllü asistanım aynı zamanda okulda HSD'ye destek veriyorum. Yeni topluluklarla tanışmak çok isterim. Öneri ve destekleriniz için bana ulaşabilirsiniz :)) 	https://www.linkedin.com/in/sudenur-senkal/
+
+20:26:01 From Sevim Yılmaz to Everyone:
+	#eskişehir merhaba ben sevim yılmaz. Mimarlıktan mezun oldum ve oyun tasarımıyla ilgileniyorum. Akademide ise flutter üzerinden ilerlemek ve kendimi geliştirmek istiyorum. Fikir alışverişlerine açığım herkese başarılar
+20:26:02 From Berke Aktürk to Everyone:
+	#OyunGeliştirme Merhaba ben Berke Aktürk. Başkent Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. ufak bir ekiple oyun, uygulama ve business solutions üretiyoruz. https://www.linkedin.com/in/berke-aktürk-2075a9273/
+
+20:26:07 From okan candeniz to Everyone:
+	#istanbul #proje #girişimcilik Merhaba, ben Okan Candeniz. Bilgisayar Mühendisliği mezunuyum ve şu anda İş Analisti olarak çalışıyorum. Şu sıralar Flutter öğrenmekteyim ve Google Proje Yönetimi ile Flutter Uygulama Geliştirmeye büyük ilgi duyuyorum. Bu alanlarda bilgi ve deneyimlerimi genişletmek, aynı zamanda benzer ilgi alanlarına sahip kişilerle bağlantı kurmak istiyorum. Eğer Flutter, proje yönetimi veya genel olarak teknoloji ve yazılım üzerine sohbet etmek isterseniz, LinkedIn üzerinden bana ulaşabilirsiniz: https://www.linkedin.com/in/okancandeniz/
+
+20:26:23 From Tülay AKBAŞ to Everyone:
+	Merhabalar ben Tülay, iletişim ve tasarımı 3. sınıf öğrencisiyim. 3d sanatla yakından ilgiliyim. https://www.linkedin.com/in/t%C3%BClay-akba%C5%9F-9aa552274/
+
+20:26:34 From Furkan Hamza Bolat to Everyone:
+	Selamlar ben Furkan Hamza Bolat. KMÜ Google DSC kurucu lideriyim. Bilgisayar mühendisliği 3. sınıf öğrencisiyim. #yapayzeka #datascience ve #görüntüişleme alanlarında daha önce projeler geliştirdim ve startup firmalarında iş deneyimim oldu. Linkedin hesabım https://www.linkedin.com/in/furkanhamzabolat/
+
+20:27:14 From Beyza Akkaya to Everyone:
+	Merhaba, ben Beyza Akkaya. Ankara Hacı Bayram Veli üniversitesi, Görsel İletişim Tasarımı mezunuyum. Tasarım alanında daha çok oyun sektörüne odaklanmak istediğim için kendimi eğitimlerle geliştirmeye çabalıyorum. Linkedin hesabım: https://www.linkedin.com/in/beyza-akkaya-32564822b/
+
+20:27:26 From Erdem Celal Gören to Everyone:
+	#proje #dil Herkese selam, ben Erdem Celal Gören. Dil ve çeviri alanında araştırma görevlisi olarak çalışıyorum. Akademinin oyun kolundayım, bu alanda hiç deneyimim olmasa da hummalı bir şekilde çalışıyorum. Oyuncu deneyimi ve seviye tasarımı alanlarına ilgi duyuyorum. Üzerinde çalıştığınız projeler için çeviri ve seslendirme konularında işbirliği yapabiliriz. Linkedin profilim: https://www.linkedin.com/in/erdemgoren/
+
+20:27:30 From Esad Kibar to Everyone:
+	Selam ben Esad Kibar. İTÜ Cevher Müh.de okuyorum. AR ve AI teknolojilerinin özellikle kültürel miras, tarih ve sanattaki kullanımıyla ilgileniyorum. AR ve AI alanına ilgi duyanların eklemesi özellikle mutlu eder. Herkes eklesinn https://www.linkedin.com/in/esad-kibar
+
+20:27:47 From Sude Özübek to Everyone:
+	#AI #c++ #python Herkese merhabalar, ben Sude İstanbul Aydın Üniversitesi Yazılım Geliştirme 1. Sınıf öğrencisiyim. Şu an hali hazırda yapay zeka odaklı metapiens adında yazılım şirketinde medium için ekip çalışması ile blog yazıyorum mutlaka okumalısınız çok faydalı içeriklerimiz devam edicek :)) gelecekteki hedefim ise yapay zeka ile uygulamalar geliştirmek. Ve yapay zekayı geliştirmek. https://www.linkedin.com/in/sude-%C3%B6z%C3%BCbek-614662273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
+20:27:59 From Nurettin Gürkan Şengül to Everyone:
+	#Proje #Ankara 	Selamlar Ben Nurettin Gürkan Şengül. Avrupa Birliği Hibeleri Projeleri Yazarlığı ve Kickstarter Proje Danışmanlığı yapmaktayım. Bunun yanısıra #Unity ve #UnrealEngine5 üzerinde çalışmaktayım. Yarı amatör ekibimle birlikte oyun geliştirme ve hibe projeleri çalışmaları gerçekleştiriyoruz. Bu alanlarda sohbet etmek isterseniz, LinkedIn üzerinden bana ulaşabilirsiniz: 		https://www.linkedin.com/in/nurettingurkansengul/
+
+20:28:01 From Can Saygın to Everyone:
+	Merhaba, Ben Can SAYGIN. Ege Üniversitesi Elektrik-Elektronik Mühendisliği son sınıf öğrencisiyim. Yapay zeka üzerine tez projem var. Kodlama, elektronik ve elektrik alanında çalışmayı severim.	https://www.linkedin.com/in/can-saygin-867425252/
+
+20:28:11 From Mehmed Sefa Karataş to Everyone:
+	#multiplayer #oyun #iş Mehmed Sefa, direk konuya giriyorum. Oyun yazıyorum ben. Aktif olarak 2 proje üzerinde çalışıyorum. Daha önce mobile falan oyunlar yaptım bir kaç tane de game jam'e katıldım. Multiplayer konusunda çok eksiğim var. Ama hayallerim o tarafta olduğu için geliştirmem gerekiyor kendimi önerilere kesinlikle açığım. Nasıl ilerleyeceğimi bilmiyorum. Bu projelerim ve ekibim gönüllülük esaslılar yani bütçe için gerekirse başka işte de çalışmak istiyorum. Tanışmak isteyen ekleyebilir: https://www.linkedin.com/in/mesekara/
+20:28:15 From Kerem Aslan Ural to Everyone:
+	#Ankara #OyunGeliştirme #OyunTestUzmanı #Uzaktan #Proje #İşArayışı Merhabalar herkese, ben Kerem Aslan URAL. Ankara'da yaşıyorum. ODTÜ BÖTE bölümünden mezunum ve Anadolu Üniversitesi YBS bölümünde ikinci üniversiteyi okumaktayım. Kariyerimi oyun geliştirme, oyun tasarımı, oyun test uzmanı, eğitim teknolojileri, artırılmış gerçeklik, içerik geliştirme uzmanı ve sosyal medya içerik yöneticisi gibi alanlarda şekillendirmeyi hedefliyorum. Daha önce Teknofest & Tübitak ulusal yarışmalarına katıldım ve eğitim teknolojileri alanlarında dereceler kazandım. Özellikle Unity ve C# üzerinde yoğun bir şekilde kendimi geliştirmeye çalışıyorum. Engel durumum nedeniyle özellikle uzaktan & hibrit olarak çalışabileceğim aktif bir iş arayışındayım. Google OUA'nın bir parçası olmaktan ve sizlerle tanışmaktan çok mutluyum.		LinkedIn profilim:	https://www.linkedin.com/in/kerem-aslan-ural/
+
+20:28:15 From Murat Meral to Everyone:
+	#ankara merhabalar, ben Murat MERAL. Orta Doğu Teknik Üniversitesi Petrol ve Doğal Gaz Mühendisliği 1. sınıf öğrencisiyim. Flutter ile kendmi geliştirip sektörüm ile yazılımı bir araya getirerek kendime bir kariyer yolu açmayı hedefliyorum. Tüm katılımcı arkadaşlarımıza başarılar diliyorum. Linkedn hesabım: https://www.linkedin.com/in/murat-meral-5739a7258
+
+20:28:19 From Aziz Alperen Görmüş to Everyone:
+	Herkese merhaba ben Aziz Alperen Görmüş. İstanbul Üniversitesi %100 İngilizce Fizik bölümü 3. sınıf öğrencisiyim. Yazılıma olan ilgim ve uygulama geliştiricisi olma merakım beni Oyun ve Uygulama Akademisine getirdi. Flutter gibi esnek ve büyük bir topluluğu olan yazılım dilinde kariyerimi ilerletmeyi düşünüyorum. İlerde bir startup ile şirket kurmak ve bir şeyler üretmek istiyorum. Alacağım eğitimler için çok heyecanlıyım umarım herkes için verimli bir dönem olur, tüm arkadaşlarıma başarılar diliyorum. Linkedin hesabım: https://www.linkedin.com/in/aziz-alperen-g%C3%B6rm%C3%BC%C5%9F-57aa48237/
+
+20:28:21 From Esad Kibar to Everyone:
+	Replying to "Selam ben Esad Kibar..."
+	
+	https://www.linkedin.com/in/esadkibar/
+
+20:28:26 From Polatcan Gürbüz to Everyone:
+	#Proje #Girişim Herkese merhabalar. Ben Polatcan Gürbüz. Karadeniz Teknik Üniversitesi Yazılım Mühendisliği 2.sınıf öğrencisiyim. Kendimi Unity alanında eğitimler ve projeler sayesinde geliştirmeye çalışıyorum. Oyun projelerinde birlikte çalışabiliriz.	LinkedIn : https://www.linkedin.com/in/polatcangurbuz/
+
+20:28:31 From Serde Parlak to Everyone:
+	#kocaeli #sağlık #proje Herkese merhaba, ben Serde Parlak. Kocaeli üniversitesinde biyomedikal mühendisliği son sınıfım. Flutter da kendimi geliştirerek bölümümle alakalı projeler geliştirmek istiyorum. Kocaelinde ikamet edenler ile de güzel projeler geliştirmek isterim. www.linkedin.com/in/serde-parlak
+
+20:28:33 From Beyza YAYLAK to Everyone:
+	Merhaba ben beyza. Gazi üniversite böte alanında yüksek lisans yapıyorum. 3B modelleme ilgi alanlarımdan. Akademide flutter ile uygulama geliştirip yazılım alanında da ilerlemek istiyorum.
+
+20:28:35 From Begüm Kavaklı to Everyone:
+	Selamlar ,Begüm ben. Doğuş üniversitesinde endüstri mühendisliği 2. sınıftayım. Girişimcilikle ilgileniyorum. Yeni yeni yazılım dünyasında yer almaya çalışıyorum :) Linkedinimi bırakıyorum www.linkedin.com/in/begumkavakli
+
+20:28:41 From abdurrazzak saymaz to Everyone:
+	#istanbul #proje #kahve Merhabalar. Ben Abdurrazzak. İstanbul Aydın Üniversitesi Bilgisayar Programcılığı 2. sınıf öğrencisiyim. Unity ile oyun geliştirme alanına ilgiliyim. Bu alanda kendimi geliştirip kendi oyunumu piyasaya sürmek istiyorum. https://www.linkedin.com/in/abdurrazzak-saymaz/
+
+20:28:48 From Gülsinem kazancı to Everyone:
+	Merhaba ben Gülsinem Kazancı. Muğla Sıtkı Koçman Üniversitesi Bilgisayar Mühendisliği 3.sınıf öğrencisiyim. Kendime alan arıyorum. Mobile tarafı için akademiye dahil oldum. http://linkedin.com/in/gulsinemkazanci
+
+20:28:49 From Bengisu DEMİR to Everyone:
+	#lider #takımyönetimi Merhabalar ben Bengisu Demir. Bilgisayar mühendisliği 3. sınıfım. Uludağ üniversitesinin en büyük topluluğu olan Uludağ Yazılım Topluluğu'nun başkanlığını yapıyorum. Ekip olarak çalışmak her zaman beni daha çok pushlar bu yüzden proje tekliflerine açığım. Daha önce Flutter geliştirmeye başlamıştım bu akademiyle bunu daha ileriye taşıyacağıma inanıyorum.  https://www.linkedin.com/in/bengisudemr/
+20:28:54 From Ayşenur Ustem to Everyone:
+	Merhaba ben Ayşenur, Görsel İletişim Tasarımı 2. Sınıf öğrencisiyim. #illustrasyon ve #animasyon alanlarına ilgiliyim. Kendimi bu alanlarda geliştirmeye çalışıyorum. 
+	https://tr.linkedin.com/in/aysenurustem
+
+20:29:07 From Yunus Emre Öztürk to Everyone:
+	#tanısma #sohbetmuhabbet Merhabalar, ben Yunus Öztürk. 21 yaşındayım ve Karabük Üniversitesi Mekatronik Mühendisliği 2. Sınıf öğrencisiyim. Şuanda Gebze Bilişim Vadisinde bulunan ortağımla beraber kurduğumuz MacroVisual Studio adlı şirketin Technical Director ve Game Developerıyım. Hali hazırda Nyctophile Studio şirketinde UI/UX Desginer ve QA Manager olarak çalışıyorum. Şuanda oyun sektöründe çalışıyor olsamda uygulama yazılımını öğrenmek istiyorum o yüzden buradayım. Uygulama geliştirmek insanlarla iletişim kurmak ve tanışmak isterim. linkedin profilim: https://www.linkedin.com/in/yunus-öztürk-9b3842251/
+
+20:29:08 From Berat Demirel to Everyone:
+	Merhabalar ben Berat, 3 yıldır oyun sektörünün içerisindeyim şuan freelancer olarak birçok aktif olarak oyun projeleri almaktayım bana linkedin üzerinden ulaşırsanız alçağım yeni projeleri sizlerle paylaşabilirim tecrübe kazanmış olursunuz: https://www.linkedin.com/in/berat-demirel-31864b255/
+
+20:29:11 From Sıla DEMİRPEHLİVAN to Everyone:
+	#kocaeli Merhaba, ben Sıla. Elektrik Mühendisliği mezunuyum. Kocaelinde yaşıyorum. İş arama sürecimde kendimi geliştirmeye çalışıyorum. Akademide seçimimi Unity ile oyun geliştirmeden yana kullandım. Birlikte çalışmak isteyenler olursa bu konuda açığım. #kocaeli #unity https://www.linkedin.com/in/s%C4%B1la-demirpehlivan-88576a1a3/
+
+20:29:18 From EBRAR TEKİŞ to Everyone:
+	Merhaba ben Ebrar Tekiş, Hasan Kalyoncu Üniversitesinde #dijitaloyuntasarımı 1.sınıf öğrencisiyim. Daha önce #sosyalmedya danışmanlığı #fotoğrafçılık yaptım. Akademiye seçildiğimden dolayı çok heyecanlıyım. Kariyerimi #oyungeliştirmek üzerine kurmak istiyorum. Umarım hepimiz için güzel bir dönem geçer 		https://www.linkedin.com/in/ebrar-teki%C5%9F-770a0a245/
+
+20:29:20 From Yusuf Emre Öner to Everyone:
+	Merhabalar ben Yusuf Emre, MIS 2. sınıf öğrencisiyim. YetGen programında opeasyon lideriyim. Süreç planlamayı ve proje yöntmeye ilgiliyim. Sizlerle tanışmayı çok isterim #proje #operasyon #kahve https://www.linkedin.com/in/yusuf-emre-oner/
+
+20:29:23 From Olgun Baran Atik to Everyone:
+	Selamlar Ben Olgun Baran Atik. #Hacettepe Üniversitesi'nde #matematik bölümü son sınıf öğrencisiyim. Bir sosyal medya uygulaması fikrimi hayata geçirmek için uğraşıyorum ve bir 2d #rpg oyun geliştiriyorum. Aynı zamanda aktif olarak sinema üzerine bir #podcast serisi yapıyorum. 	https://www.linkedin.com/in/olgun-baran-atik/ https://www.linkedin.com/company/exploryworld/
+
+20:29:28 From Lütfullah Şener to Everyone:
+	#oyungelistirme Merhaba ben Lütfullah Şener. Karabük üniversitesi bilgisayar Mühendisliği 1. Sınıf öğrencisiyim. Yazılıma daha yeni başladım 3 aydır #unity ile  oyun geliştirme konusunda çalışıyorum. İleride beraber bir oyun projesi çıkartmak için beraber çalışabiliriz. https://www.linkedin.com/in/l%C3%BCtfullah-%C5%9Fener-934061299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+20:29:28 From Esra Uğurbaş to Everyone:
+	#proje #unity #İstanbul	Merhaba ben Esra Uğurbaş Marmara Üniversitesi bilgisayar mühendisliği 2. sınıf öğrencisiyim. Machine learning üzerine araştırma yapıyorum. Unityde oyun projelerinde yer almak isterim.	Linkedin profilim ->	https://www.linkedin.com/in/esra-u%C4%9Furba%C5%9F-920505253/
+
+20:29:42 From Yakup Taşpınar to Everyone:
+	Merhaba ben Yakup Taşpınar. #KTU Karadeniz teknik üniversitesi bilgisayar bilimleri 1. sınıf öğrencisiyim, akademi eğitimlerine devam edip oyun geliştirmede kendimi geliştirmek ve bunu yapay zeka ile desteklemek istiyorum. #oyungeliştirme #unity  #yapayzeka 	https://www.linkedin.com/in/yakup-taşpınar-a32664285/
+
+20:29:52 From Alp Barış Beydemir to Enes Gündüz - Akademi(Direct Message):
+	#yapayzeka #uygulamageliştirme	Merhaba ben Alp Barış Beydemir, 2 seneye yakın farklı şirketlerde yazılım geliştirme ve bulut bilişim alanlarında mühendis olarak çalışıyorum. genellikle backend teknolojilerine oldukça hakimim, şuan aws cloud servisleri hakkında aktıif geliştrimeler yapıyorum, az biraz da frontend teknolojileri kullandım geçmişte. İstanbul teknik üniversitesi 4. sınıf öğrencisiyim. Proje tekliflerine açığım. linkedinime şu adresten ulaşabilirsiniz:	https://www.linkedin.com/in/bar%C4%B1%C5%9F-beydemir-196203195/
+
+20:29:53 From gökhan polat to Everyone:
+	#endüstri #ankara #girişimcilik Merhabalar ben Gökhan Polat, Hacettepe'de endüstri mühendisliği 2. sınıfım. Veri, bankacılık, savunma sanayii ve IT alanları ilgimi çekiyor. Tasarım yapmak hobilerim arasındadır. Birçok ünlü firma ve insanın katıldığı 5. ve 6. Hacettepe Kristal Geyik Ödüllerinin tasarımcısıyım. Linkedin profilim: https://www.linkedin.com/in/gokhanp/
+
+20:29:59 From Hazal Sena to Everyone:
+	#Aydın Herkese merhaba ! Ben Hazal Sena GÜLER. Adnan Menderes Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. LinkedIn: https://www.linkedin.com/in/hazalsguler/
+
+20:30:01 From Bilal Enes Söylemez to Everyone:
+	Merhabalar, ben Bilal Enes Söylemez. Medipol Üniversitesi Bilgisayar Mühendisliği 3.sınıf öğrencisiyim. Daha önce Web geliştirmeyle ilgilendim. Şu an mobil uygulamalarda yapay zeka eklentileri üzerine araştırmalar yapıyorum. Bununla ilgili bir proje çıkarmak için çalışmalarıma devam ediyorum. 		https://www.linkedin.com/in/bilalenessoylemez?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
+20:30:03 From hazal terzi to Everyone:
+	merhaba, ben hazal terzi. İngilizce işletme 1. sınıf öğrencisiyim. Alanımı teknolojiyle entegre ederek çağımıza adapte olabilmeyi önemsiyorum. https://www.linkedin.com/in/hazal-terzi-0bb083281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+20:30:03 From Mustafa YAGIZ to Everyone:
+	Merhaba, ben Mustafa YAĞIZ. Bilişim Vadisinde 42 Kocaeli yazılım okulunda ana eğitim programında yer alıyorum. C ve C++ öğreniyorum. https://www.linkedin.com/in/myagiz/
+
+20:30:05 From Alp Barış Beydemir to Everyone:
+	#yapayzeka #uygulamageliştirme	Merhaba ben Alp Barış Beydemir, 2 seneye yakın farklı şirketlerde yazılım geliştirme ve bulut bilişim alanlarında mühendis olarak çalışıyorum. genellikle backend teknolojilerine oldukça hakimim, şuan aws cloud servisleri hakkında aktıif geliştrimeler yapıyorum, az biraz da frontend teknolojileri kullandım geçmişte. İstanbul teknik üniversitesi 4. sınıf öğrencisiyim. Proje tekliflerine açığım. linkedinime şu adresten ulaşabilirsiniz:	https://www.linkedin.com/in/bar%C4%B1%C5%9F-beydemir-196203195/
+
+20:30:15 From Nazmi Aras to Everyone:
+	#KTÜ #web #mobil #gomuluyazilim	Merhaba, Ben Nazmi Aras. Karadeniz Teknik Üniversitesi Elektrik-Elektronik Müh. 4.sınıf öğrencisiyim. Daha önce siber güvenlik ve yapay zeka alanlarında kendimi geliştirmeye çalıştım. Şuanda web ve mobil alanında ilerliyorum. Ayrıca gömülü yazılım alanında kendimi geliştirmeye çalışıyorum. Şuanda otonom su alt araçları üreten bir şirkette çalışıyorum. Üniversite kulubü olarak da Sanayide Dijital Teknolojiler yarışması için Teknofeste hazırlanıyoruz. https://www.linkedin.com/in/nazmiaras
+
+20:30:17 From Bilhan Özdemirhan to Everyone:
+	Selamlar herkese,
+	Ben Bilhan Özdemirhan. Psikoloji + Klinik psikoloji mezunuyum. Teknoloji girişimlerine insan kültür+strateji danışmanlığı alanında 2 senelik tecrübem var. Birebirde çalıştığım oyun şirketlerinden ilham alarak oyun sektörüne geçmeye karar verdim. Özellikle oyun tarafındaki arkadaşlarla tanışmayı çok isterim.
+	
+	https://www.linkedin.com/in/bilhanozdemirhan/
+
+20:30:18 From Mürüvvet bozkurt to Everyone:
+	Merhaba, ben Mürüvvet şuan Münik Teknik üniversitesinde computer science alanında yüksek lisans yapıyorum. Lisans boyunca computer vision ve robotik üzerine çalıştım. Explainable Deep Learning modelleri geliştirme üzerine staj yaptım. İnsanlara hızlı bir şekilde ulaşabileceğimiz uygulamaları geliştirmek ve en önemlisi bunu yaparken burda bu ekosistemin içinde olmak, girişimcilik hakkında bazı bilgileri özümseyebilmek için burdayım. Bunlar dışında denizle ilgili her şeye bayılırım, görsel sanatlarla ilgilenmeyi severim. Fikir alışverişinde bulunmak için, tanışmak için Linkedinimi bırakıyorum: https://www.linkedin.com/in/muruvvetb/
+
+20:30:19 From Yunus Emre to Everyone:
+	#proje #oyun Merhabalar, ben Yunus Emre Sadıkoğlu. Şu anda bir IT şirketinde çalışıyoruım. Daha önceden oyun sektöründe 7 ay boyunca staj yapma imkanım oldu. Başlangıç aşamasında olan online oyun projemizi 2 kişi olarak geliştirmekteyiz.  3D tarafında modelleme ve animation konularında eksiklerimiz var. Bizimle birlikte projeyi geliştirmek ve/veya diğer konularda da iletişime geçmek istiyorsanız ulaşabilirsiniz.  	https://www.linkedin.com/in/yunusemresadikoglu/
+
+20:30:25 From Yağmur Barut to Everyone:
+	Merhabalar ben Yağmur Barut, Fırat Üniversitesi Yazılım Mühendisliği 2. sınıf öğrencisiyim #siberguvenlik ve #mobiluygulama geliştirmeye ilgim var. Linkedin hesabım: https://www.linkedin.com/in/yagmurbarut/
+
+20:30:27 From Sena Dilara Karpınar to Everyone:
+	Merhaba ben Sena, İstanbul Üniversitesi Cerrahpaşa Makine Mühendisliği 3. sınıf öğrencisiyim aynı zamanda da İstanbul Üniversitesi Bilgisayar Programcılığı 1. sınıf öğrencisiyim. #Felsefe, #sanat, #teknoloji, #yapayzeka ve #yazılım hakkında konuşmayı çok isterim. #Projefikirleri ve #girişimcilik konusunda da aklıma çok fikir gelir #konuşalım https://www.linkedin.com/in/senadilarakarp%C4%B1nar
+
+20:30:28 From Selene Serdaroğlu to Everyone:
+	Merhaba, ben Selene Serdaroğlu. .Kadir Has Üniversitesi Görsel İletişim Tasarımı 3. sınıf öğrencisiyim. #unity ile oyun geliştirme üzerinde kendimi geliştirmek istiyorum.  LinkedIn üzerinden bana ulaşabilirsiniz: https://www.linkedin.com/in/selene-nisan-serdaro%C4%9Flu-39978b2a0/ Ayrıca Behance hesabım: https://www.behance.net/seleneserdaro
+
+20:30:32 From Müzeyyen Şahin to Everyone:
+	#OyunGeliştirme 
+	Merhaba ben Müzeyyen Şahin 
+	Uludağ Üniversitesinde matematik öğretmenliği okuyorum.Yazılıma yeni başlıyorum.Öncelikle kendime daha sonra eğitim alanına katkı sağlamak istiyorum.https://www.linkedin.com/in/m%C3%BCzeyyen-%C5%9Fahin-561646208?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+20:30:34 From ömerhan sancak to Everyone:
+	#istanbul herkese merhaba. Ben Ömerhan Sancak. Yıldız Teknik Üniversitesi Bilgisayar Mühendisliği 1. sınıf öğrencisiyim.  Organizasyona ve Bilgisayar Bilimlerine ilgiliyim. Aynı zamanda Yıldız Teknik Üniversitesinin en büyük bilgisayar bilimleri kulübü SKY LAB: Bilgisayar Bilimleri Kulübünün bu yıl ki Yönetim Kurulu Başkanıyım.	https://www.linkedin.com/in/%C3%B6merhan-sancak-53679a245/
+
+20:30:38 From iremnur enveş to Everyone:
+	#ankara #game #yönetimbilişimsistemleri Merhabalar ben İremnur Enveş, Ankara Yıldırım Beyazıt Üniversitesi, Yönetim Bilişim Sistemleri ikinci sınıf öğrencisiyim. tasarıma ilgim var ve oyun geliştirme ile ilgileniyorum ayrıca yapay zeka ile ilgili kendimi geliştirmek istiyorum. hepinizle tanışmaktan çok mutluyum. https://www.linkedin.com/in/iremnurenves/
+
+20:30:46 From kemal Mertoğlu to Everyone:
+	Merhaba İsmim Kemal Mertoğlu. Selçuk üniversitesi,iletişim fakültesi reklamcılık 1. sınıfım uygulama geliştirmeye yönelik herhangi bir girişimim olmamıştı ta ki oyun ve uygulama akademisine kadar. Alanımla ilgili aklımda çok güzel ve faydalı olacağına inandığım bir uygulama var bu akademiye katılmamdaki en büyük sebeplerden biri bu uygulamayı gerçekleştirebilme motivasyonum :), linkedln profilim www.linkedin.com/in/kemal-mertoglu-a7b6b9290
+
+20:30:59 From İlknur Özçellik to Everyone:
+	Herkese merhaba ben İlknur Özçellik.  #bilgisayarmühendisliği 3. sınıf öğrencisiyim. Daha önceki tarihlerde bir FrontEnd bootcampinde yer aldım. İlgi alanım daha çok oyun geliştirme. Henüz oyun geliştirme adına bir #projem yok ancak kendimi geliştirmeye çalışıyorum. Tavsiye ve önerilere her zaman açığım. İlginiz için şimdiden teşekkür ederim. https://www.linkedin.com/in/ilknur-ozcellik
+
+20:31:12 From Bilal Kızılaslan to Everyone:
+	#proje #saglik Merhaba ben Bilal Kızılaslan🙋‍♂️ Acıbadem Üniversitesi Tıp Fakültesi dönem 3 öğrencisiyim.
+	
+	Tıpta yapay zeka uygulamaları alanında çalışmalar yürütmek istiyorum. Fakültemde buna dair dersleri alıp birkaç proje yürüttüm. ‘’AI Applications in Medicine’’ dersinde hastalıklı ve sağlıklı gözü ayırt etmeyi sağlayan basit bir proje geliştirmiştim. Şu anda da biyoinformatik alanında, ‘’Omics Analysis’’ dersi çatısı altında literatürdeki insan genomu çalışmalarını takip ederek buna dair bir proje geliştirmeye çalışıyorum.
+	
+	Oyun ve uygulama akademisi kapsamında da uygulama geliştirme dünyasını keşfetmek ve sağlık alanında bir uygulama geliştirmek istiyorum.
+	
+	https://www.linkedin.com/in/bilalk%C4%B1z%C4%B1laslan/
+
+20:31:18 From Kemal Akarca to Everyone:
+	Merhaba , ben Kemal Akarca İstanbul Aydın Üniversitesinde 1.sınıf bilgisayar mühendisliği okuyorum . Şuan da kendimi yazılım ve teknik olarak geliştirmeye odaklanıyorum . Ayrıca sürdürülebilirlikle ilgili bir start-up geliştiriyoruz bunu da bu akademiden alacağım deneyimlerle değer katmak istiyorum .#flutter #proje #backend www.linkedin.com/in/kemal-akarca-7225b9246
+
+20:31:22 From Fatih Hakan Mehmet ÇAYLIDEMİRCİ to Everyone:
+	Merhaba, ben Fatih Hakan Mehmet ÇAYLIDEMİRCİ. Erciyes Üniversitesi Bilgisayar Mühendisliği mezunuyum. Kendimi backend .NET alanında geliştirmekteyim. Akademiye katılmamın amacı kendimi oyun geliştirme alanında da geliştirmek. Linkedin üzerinden bana ulaşabilirsiniz : https://www.linkedin.com/in/feheme/
+
+20:31:34 From Muhammed Ali Tural to Everyone:
+	#Proje #Girişim #İzmir Herkese merhabalar. Ben Muhammed Ali Tural. Uludağ Üniversitesi Bilgisayar Mühendisliği bölümünden bu sene mezun oldum. 3 yıldır kendimi #unity ve #cSharp alanında eğitimler ve projeler ile geliştirmeye çalışıyorum. Oyun projelerinde birlikte çalışabiliriz.	LinkedIn : https://www.linkedin.com/in/muhammed-ali-tural/
+
+20:31:37 From Burhan Şahin to Everyone:
+	Merhabalar adım Burhan Şahin. Karadeniz Teknik Üniversitesi Bilgisayar Mühendisliği 4. Sınıf öğrencisiyim. Bitirme projemi TUSAŞ ile yapıyorum. #CyberSecurity alanıyla ilgileniyorum.
+	
+	Linkedin: https://www.linkedin.com/in/bsahin28
+
+20:31:42 From Selin Yiğit to Everyone:
+	Merhaba ben Selin Yiğit. Geçtiğimiz yaz Necmettin Erbakan Üniversitesi Bilgisayar Mühendisliğinden mezun oldum. Okul döneminde Flutter ile ilgilenmeye başladım ve bitirme projemi de Flutter ile geliştirdim. Fakat oyun alanına da ilgi duyduğum için bu alan üzerinde de deneyim sahibi olmak istiyorum. Umarım herkes için verimli bir dönem olur.
+
+20:31:52 From Erkan Koç to Everyone:
+	#antalya #tanışma Herkese selamlar, ben Erkan. Akdeniz Üniversitesi Elektrik Elektronik Mühendisliği 1. sınıf öğrencisiyim ve ikinci üniversite olarak Anadolu Üniversitesinde Bilgisayar Programlama bölümünü okumaktayım. #python #html #c# öğrenmekteyim, yardıma ihtiyacı olan olursa elimden geldiğince yardımcı olmaya çalışırım. Linkedin profilim : www.linkedin.com/in/erkan-koç-3795a129a
+
+20:32:01 From Elif DİLEKLİ to Everyone:
+	Merhaba ben Elif Dilekli #yazılımühensiliği 1. Sınıf öğrencisiyim yazılım dünyasına yeni giriş yaptım sayılır çok isteyerek seçtiğim bu bölümde #oyungeliştirme alanında ilerlemeyi istiyorum girişimimi  akademiye seçilerek başlatmış oldum ve deneyimleyerek kendimi geliştirmeye çalışıyorum akademide c# eğitimine ek C dili ögreniyorum #unity#proje
+	https://tr.linkedin.com/in/elif-dilekli-930b9a249
+
+20:32:20 From Ece İldeniz Gürhan to Everyone:
+	Herkese selam, ben #marmara Üniversitesi  Almanca Yönetim Bilişim Sistemleri ikinci sınıf öğrencisi Ece İldeniz Gürhan. Herkese eğitim serüvenimiz boyunca başarılar diliyorum, aşağıya LinkedIn hesabımı bırakıyorum. https://www.linkedin.com/in/ece-ildeniz-gurhan/
+
+20:32:25 From muzaffer eser to Everyone:
+	Selamlar #girişim #ankara #Unity Ben Muzaffer Eser. Ankara Üniversitesi Fizik 2. Sınıf öğrencisiyim. Türkiye'de Uzay alanında çalışmalar yapıyorum. Aklımda bu alanda uygulama ve oyun geliştirmek ile ilgili fikirlerim var. Python İmage processing ve yapay zeka alanında çalışıyorum. Unity öğreniyorum bir şeylerde katkınız olacağını veya katkım olacağını düşünüyorsanız benimle iletişim halinde kalın mesajlarınızı bekliyorum. https://www.linkedin.com/in/muzaffer-eser-656b19184/
+
+20:32:56 From Osman Kaan Ilhan to Everyone:
+	#Türkiye ben Osman Kaan İLHAN, bu alanda yeniyim Unity bölümünde gelişmek istiyorum beraber oyun geliştirmek isteyenler ve fikir alışverişi için iletişime geçebilirsiniz.	LinkedIn hesabım https://tr.linkedin.com/in/osman-kaan-ilhan-0a2b9b1b0
+
+20:33:09 From Tarık Köşker to Everyone:
+	Merhaba ben Tarık Köşker, Bartın Üniversitesinde İngilizce Mütercim-Tercümanlık 3. sınıf öğrencisiyim. Unity ile cross-platform multiplayer oyun geliştirme alanında kendimi geliştiriyorum. Bu alanda yeni fikirlere, tekliflere ve projelere açığım. #proje #oyungeliştirme #unity #crossplatform #multiplayer	LinkedIn:	https://www.linkedin.com/in/tarikkosker/
+
+20:33:10 From Begüm Sude Uslu to Everyone:
+	Merhaba, ben Begüm Sude Uslu, Hacettepe bilgisayar mühendisliği birinci sınıf öğrencisiyim. şimdilik olabildiğince çok bilgisayar programlama dillerini öğrenmeye çalışıyorum. Şimdilik Python ve C# ile çalışıyorum. Herkese başarılar.. :))
+20:33:12 From Begüm Sude Uslu to Everyone:
+	www.linkedin.com/in/begüm-sude-uslu-189a04297
+
+20:33:21 From Emre yasin Yılmaz to Everyone:
+	Merhabalar ben Emre Yasin Yılmaz 27 yaşındayım #Lojistik sektöründe uluslararası denizyolu alanında satış uzmanıyım yaklaşık 3 yıldır bu sektörde bulunuyorum hayatımı değiştirmek için karşıma çıkan oyun ve uygulama akademisi sayesinde hayatımı değiştireceğimi düşünüyorum yaklaşık 20 yıldır aktif olarak oyun dünyasının içinde bulunuyorum bu nedenle oyun geliştiriciliği ile ilgili kendime yeni bilgiler katıp kendimi geliştirmek istiyorum 0 yazılım ve unity bilgisiyle bu yola çıkıyorum hertürlü konu için #linkedin https://tr.linkedin.com/in/emre-yasin-yılmaz-69736010b
+
+20:33:23 From Eren Elçi to Everyone:
+	Merhaba! Ben, EBYÜ Bilgisayar #Mühendisliği Bölümü'nde 4.sınıf öğrencisiyim..Aktif olarak #flutter ile mobil programlama üzerine çalışmaktayım, daha önce #c# üzerinde stajımı gerçekleştirirken kararımı vermiştim mobil üzerine yoğunlaşacağımı . Bağlantı kurmaktan ve yeni projelerde işbirlikleri oluşturmaktan her zaman memnuniyet duyarım. Github:https://github.com/Elcieren
+
+20:33:24 From duha tuyan yılmaz to Everyone:
+	Merhaba, ben Duha. Eskişehir osmangazi üniversitesinde endüstri mühendisliği 2. sınıfta okuyorum, aynı zamanda anadolu üniversitesinde bilgisayar programcılığı da okuyorum. Kendi bölümümden kaynaklı Excel'i etkin olarak kullanıyorum bir probleminiz olursa yardımcı olmak isterim :). Unity ve  C# konularında gelişmeye çalışıyorum. #eskişehir #unity #oyungeliştirme https://www.linkedin.com/in/duha-tuyan-y%C4%B1lmaz-77804b259/
+
+20:33:25 From buğrahan karamollaoğlu to Everyone:
+	Adım buğrahan karamollaoğlu. boğaziçi üniversitesi ingiliz dili ve edebiyatı + 42istanbul öğrencisiyim. c,cpp,python, java, kotlin ve flutter kullandım. #mobil alanında ilerliyorum, kotlinde yakında store'da listeleyeceğim bir uygulamam var. baglantı icin: https://www.linkedin.com/in/bugrahan-karamollaoglu-395a571b7/
+
+20:33:42 From berkay civan to Everyone:
+	#samsun #çalışma Merhaba ben Berkay Ondokuz Mayıs Üniversitesi elektrik elektronik mühendisliği 2.sınıf öğrencisiyim. GDSC Omü yardımcı lideriyim.Aktif olarak yazılım ile ilgileniyorum.Samsun'da olan varsa tanışıp kahve içrbiliriz.Beraber çalışıp yazılım öğrenebiliriz.    linkedin hesabım:https://www.linkedin.com/in/berkay-civan/
+
+20:33:43 From Fatma Zehra Düzenli to Everyone:
+	Merhaba ben Fatma Zehra Düzenli, Ege Üniversitesi BÖTE 2. sınıf öğrencisiyim. #CyberSecurity ve yapay zeka alanında kendimi geliştirmek istiyorum. https://www.linkedin.com/in/fatma-zehra-d%C3%BCzenli-25126a258/
+
+20:33:44 From İrem Atlı to Everyone:
+	Merhaba ben İrem Atlı. Konya Gıda ve Tarım Üniversitesi bilgisayar Mühendisliği 1. Sınıf öğrencisiyim. 5-6 ay boyunca web geliştirme Css, javascript ile uğraştım. Şuanda #flutter ile uygulama geliştirme konusunda çalışıyorum. Flutter’a yeni başladım. İleride beraber yeni bir uygulama çıkartmak için beraber çalışabiliriz.https://www.linkedin.com/in/irem-atli-3a335a180/
+
+20:33:46 From salih yıldız to Everyone:
+	merhaba, salih yıldız. Ankara Yıldırım Beyazıt Üniversitesi Bilgisayar Mühendisliği 2. sınıf öğrencisiyim. Unity alanında kendimi geliştirmek ve sektördeki iş ortamını keşfetmek istiyorum. #ankara https://www.linkedin.com/in/salildz/
+
+20:33:56 From EMRE ARMUTLUK to Everyone:
+	Merhaba, ben Emre Armutluk. Trakya üniversitesi #mimarlık mezunuyum. Mesleğimde sıkça kullandığım üç boyutlu modellleme bilgilerimle oyun sektörüne odaklanmak istiyorum ve kendimi unity ve blender gibi programlarda geliştirmek istiyorum. (Profilimde bazı eksik kısımları en kısa sürede tamamlayacağım) Linkedin hesabım: https://www.linkedin.com/in/emre-armutluk-4046642a3/
+
+20:33:57 From Nazlıcan Matlar to Everyone:
+	Selam herkese ben Nazlıcan Matlar. Eskişehir Osmangazi Mimarlık mezunuyum. Oyun sanatı içerisinde #environmentartist olarak yer almak istiyorum. Buna bağlı olarak #unrealengine ve #unity ile ilgileniyorum. Bu alanlarla ilgilenen arkadaşlarla fikir alışverişinde bulunmak çok isterim. 
+	
+	https://www.linkedin.com/in/nazlicanmatlar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
+20:33:59 From Rabia Şevval Aydın to Everyone:
+	Merhaba, ben Rabia. Marmara Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Yurt dışında bir yazılım firmasının yapay zeka takımında çalışmaktayım. Farklı alanları da denemek istediğim için google akademiye katıldım. https://www.linkedin.com/in/rabiasevvalaydin/
+
+20:34:10 From Berfin Göz to Everyone:
+	Merhaba, ben Berfin Göz. Eskişehir Osmangazi Üniversitesi Mimarlık Bölümü'nden yeni mezun oldum. Şu anda oyun tasarımı projelerim üzerine çalışıyorum. İleride environment artist olarak çalışmayı düşünüyorum. Tavsiye ve önerilere açığım. Fikir alışverişinde bulunmayı çok isterim. Şimdiden teşekkürler. https://www.linkedin.com/in/berfin-g%C3%B6z-10993223b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
+20:34:12 From Fatih to Everyone:
+	Merhaba ben Fatih Muhammet Bahcıvan	Pamukkale Üniversitesi #yönetimbilişimsistemleri okuyorum.	Kendimi mobil programlama alanında geliştirmek ve bu alanda çalışmak istiyorum.	İlerde kendi yazılım şirketimi kurmak istiyorum.	Merkezefendi #bisiklet Spor Kulübünde Profesyonel bisikletçiyim.	lnkdn: https://www.linkedin.com/in/fatihbahcivan/
+
+20:34:15 From Elif Şahin to Everyone:
+	Merhabalar ben Elif Şahin. Ege Üniversitesi Bilgisayar Programcılığı 2. sınıf öğrencisiyim. İstanbul'da yaşıyorum. Akademiye seçildiğim için çok mutluyum. Umarım beraber güzel projeler yapabiliriz. Herkese başarılar dilerim. https://www.linkedin.com/in/elif-%C5%9Fahin-455a71272
+
+20:34:17 From Emir Selman Karaatlı to Everyone:
+	Merhabalar herkese ben Emir Selman Karaatlı. İstanbul Teknik Üniversitesinde Elektrik Elektronik Mühendisliği 1. sınıf öğrencisiyim. #Yapayzeka, #mobiluygulama ve #projeyönetimi gibi konularla ilgileniyorum. Akademi süresince herkese başarılar diliyorum Linkedin profilim: https://www.linkedin.com/in/emir-selman-karaatl%C4%B1/
+
+20:34:24 From Aybüke GENAR to Everyone:
+	# BURSA #teknofest #proje #görüntüisleme  Son sınıf Mekatronik Mühendisliği öğrencisiyim. Şu anda bir otomotiv fabrikasında işletmede mesleki eğitim sürecimi devam ettiriyorum. Teknofest için aktif olarak proje çalışmalarımızı ekibimle birlikte sürdürmekteyiz. Enerji dönüşüm sistemleri ve görüntü işleme üzerinde iki farklı projede çalışıyorum. Bilgisayar destekli tasarıma ilgi duymaktayım. Bölümüm ile ilgili yaz stajımı yapabileceğim bir kurum arayışım mevcuttur. Linkedın' den iletişimde kalmaktan memnun olurum: https://www.linkedin.com/in/ayb%C3%BCke-genar-960368235/
+
+20:34:24 From Ali Asım Bulut to Everyone:
+	#Kayseri #Bursa Merhaba ben Ali Asım . Erciyes Üniversitesi Bilgisayar Mühendisliği 3.Sınıf öğrencisiyim. Frontend alanında kendimi geliştirip birkaç proje yaptım. Kariyerime artık oyun alanında devam etmek istiyorum. Kayseri'de olan arkadaşlarla tanışabiliriz 🙂.https://www.linkedin.com/in/aliasımbulut/
+
+20:34:38 From Hanimsah TEZEL to Everyone:
+	Merhaba, ben Hanımşah Tezel. University of Huddersfield'da birinci sınıf #yapayzeka öğrencisiyim ve #teknoloji alanına büyük ilgi duyuyorum. Şu anda zamanımı #flutter ile uygulama geliştirmeye ayırıyorum. Uygulama geliştirirken insanlarla tanışmak ve birbirimize destek olmak beni çok mutlu eder. LinkedIn profilime göz atabilir ve beni ekleyebilirsiniz🥰 : https://www.linkedin.com/in/hanimsah-tezel-92151b1bb/
+20:34:41 From Ebu Belk AKYILDIZ to Everyone:
+
+	#iş #istanbul Merhaba, Ben Ebu Belk AKYILDIZ.	Çanakkale Onsekiz Mart Üniversitesi'nden Bilgisayar Mühendisliği mezunuyum.	Üniversitede mentörlük yaptığım 2 proje bulunmakta.	Şu sıralar gömülü sistemler ve mobil uygulama geliştirme konularıyla ilgileniyorum.	Özellikle mobil uygulamalar aracılığıyla kontrol edilebilen gömülü sistem projeleri üzerinde çalışıyorum.	Flutter'ı kullanarak mobil tarafı geliştirerek bu hedefe doğru ilerlemeyi planlıyorum.		Linkedin: https://www.linkedin.com/in/ebu-belk-akyildiz-54a025227/
+
+20:34:48 From Esma Akın to Everyone:
+	Merhaba ben Esma Akın. İstanbul Teknik Üniversitesi İç Mimarlık öğrencisiyim, bu sene B1 seviye hazırlık okuyorum. Bu alanda yeniyim ama Unity eğitimleri ile kendi oyunlarımı yapmak istiyorum.
+
+20:35:15 From Ali Asım Bulut to Everyone:
+	Replying to "#Kayseri #Bursa Merh..."
+	
+	https://www.linkedin.com/in/aliasımbulut/
+
+20:35:20 From muhammet girgin to Everyone:
+	merhaba ben Muhammet, Siirt Üniversitesi Bilgisayar Mühendisliği 2.sınıf öğrencisiyim kendimi oyun gelıstırme alanında gelıstırmek ıstıyorum tanışmak ısteyen olursa beklerım Linkedın: https://www.linkedin.com/in/muhammet-girgin-bb5755288/
+
+20:35:22 From Gülsüm Kırvar to Everyone:
+	#Ders #proje Merhaba ben Gülsüm Kırvar. Türkçe Öğretmeni ve aynı zamanda Çocuk Gelişim 2.sınıf öğrencisi,  hedefim  yazılım alanında istediğim yere ulaştıktan sonra daha da ileriye gitmek. https://www.linkedin.com/in/gülsüm-kırvar-8008982a1
+
+20:35:43 From Fatmanur GENAR to Everyone:
+	#istanbul# Merhaba, Ben Fatmanur. Bilgisayar Mühendisliği mezunuyum. Şu an da İstanbulda Telekom alanında bir firmada Qa Specialist olarak çalışıyorum. OUA eğitimleri ile Mobil uygulama alanında kendimi geliştirmek istiyorum.	LinkedIn profilim:	https://www.linkedin.com/in/fatmanur-genar-612a13188?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=androi
+
+20:35:44 From Akif Can Taş to Everyone:
+	#tanışma #sivas Selamlar herkes ben Akif Can Taş, moleküler biyoloji ve genetik bölümü mezunuyum. Yüksek lisans hazırlığım ve #işarayışım var. Akademi sayesinde flutter ile uygulama yapmak istiyorum benimle tanışıp bibirimize değer katabiliriz.  www.linkedin.com/in/akif-can-taş-16581b19a
+
+20:35:49 From Ramazan Mert Özçelikbaş to Everyone:
+	Merhaba ben Ramazan Mert Özçelikbaş 28 yaşındayım Dış Ticaret bölümü mezunuyum aynı zamanda İşletme bölümü öğrencisiyim. #python , #kotlin ve #java dillerinde ileri seviye eğitim aldım. #Kotlin dlinde #AndroidDeveloper olarak ilerliyorum. #Android ve #İOS alanında AI & Machine Learning ile #oyungeliştirme kısmını tek platformda birleştirip kapsamlı bir girişim yapmak , projelerde yer almak istiyorum.	 https://www.linkedin.com/in/ramazan-mert-ozcelikbas/
+
+20:36:06 From Hamit Aydoğdu to Everyone:
+	Merhaba arkadaşlar ben Hamit, Düzce Üniversitesi Elektrik-Elektronik Mühendisliği 3.sınıf öğrencisiyim. Oyun geliştirme alanında kendimi geliştirmek istiyorum ve bunun yanında Open-CV üzerinden görüntü işleme üzerine projeler de geliştirmeye çalışıyorum. #kocaeli #oyun #opencv		Linkedin: www.linkedin.com/in/hamit-aydoğdu-7a8761261
+
+20:36:34 From Abdulkadir AKTAŞ to Everyone:
+	Merhaba ben Abdulkadir pdr 3. sınıf öğrencisiyim şu an #ankaradayım hobi amaçlı native ios uygulamaları yapıyorum #unity ile birlikte proje yapabilecek arkadaşlar arıyorum 
+	https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BqBMzkXB6TbK5hZBtHJrIjA%3D%3D
+
+20:36:41 From Ece Kara to Everyone:
+	Herkese merhaba, ben Ece Kara. Bahçeşehir Üniversitesi İletişim Tasarımı mezunuyum ve şu anda Sapienza University of Rome'da yüksek lisans yapıyorum. UI/UX alanına büyük bir ilgi duyuyorum ve kendimi bu alanda geliştirmek istiyorum. Bu konularda yardıma ihtiyacınız varsa ya da iletişim kurmak istiyorsanız, bana her zaman ulaşabilirsiniz.	Linkedin: https://www.linkedin.com/in/edzhekara	Websitem: https://edzhe.com/
+
+20:37:01 From Atahan to Everyone:
+	Merhaba ben Atahan Bahçeşehir Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim yazılım alanında bir çok yönde kendimi geliştiriyorum #yapayzeka #oyun #unity LinkedIn: https://www.linkedin.com/in/atahan-demirkilic/
+
+20:37:16 From Efe POÇU to Everyone:
+	Merhaba ben Efe POÇU Manisa Celal Bayar Üniversitesi elektrik elektronik mühendisliği son sınıf öğrencisiyim. Kendimi dijital pazarlama ve oyun geliştirme alanlarına ilgiliyim. #Manisa #pazarlama #oyun	www.linkedin.com/in/efe-poçu-0407041b8
+
+20:37:42 From Buket Aytaç to Everyone:
+	Merhaba ben Buket, Sakarya Üniversitesi Bilgisayar Mühendisliği 2. sınıf öğrencisiyim. Akademiye katılma amacım mesleğimde yönelmek istediğim alanı bulmak, Bu sebeple hem uygulama hem oyun eğitimlerini tamamlamayı planlıyorum. Bunun yanında data alanında da kendimi geliştirmeye çalışıyorum. LinkedIn: https://tr.linkedin.com/in/buket-nur-ayta%C3%A7-66210a269
+
+20:37:43 From Beyza Çavuş to Everyone:
+	Merhabalar, ben Beyza Çavuş. Yıldız Teknik Üniversitesi #Mekatronik Mühendisliği 2.sınıf öğrencisiyim. Kendimi #python üzerinde geliştiriyorum. Akademi ile de #flutter üzerinde gelişmek istiyorum. Herkese güzel bir dönem dilerim. Linkedin hesabım: https://www.linkedin.com/in/beyzacavus/
+
+20:37:46 From berilkartal to Everyone:
+	Herkese merhaba ben Beril Kartal Adnan Menderes Üniversitesi Bilgisayar mühendisliği 3. sınıf öğrencisiyim. Kendimi mobil uygulama alanında geliştirmek istiyorum. Linkedın: https://www.linkedin.com/in/berilkartal/
+
+20:37:48 From RÜVEYDA KOÇAKER to Everyone:
+	#Konya Herkese merhabalar, ben Rüveyda Koçaker Konya Gıda ve Tarım Üniversitesi Bilgisayar Mühendisliği 3.sınıf öğrencisiyim. C#,.Net,SQL kullanarak web geliştiriyorum. Ayrıca mobil geliştirmeyi de merak ediyorum ve bu alanda da kendimi geliştirmek istiyorum. www.linkedin.com/in/rüveyda-koçaker
+
+20:38:20 From OnurOkyay to Everyone:
+	#Isparta #Antalya Merhaba ben Onur Okyay, Isparta Uygulamalı Bilimler Üniversitesi Bilgisayar Mühendisliği 1. sınıf öğrencisiyim. Hali hazırda #C++ öğreniyorum. Isparta'da beraber uygulama geliştirmeyi öğrenmek isteyen ve hayata bir şeyler katmak isteyen kişiler ile beraber öğrenip bu yolda beraber ilerleyebiliriz.	Linkedin hesabım : https://www.linkedin.com/in/onuroky/
+
+20:38:26 From özge ayaz to Everyone:
+	#İstanbul #uidesigner Merhabalar ben Özge Ayaz, MSGSÜ Şehir ve Bölge Planlama mezunuyum. Üç senedir bir yazılım firmasında çalışıyorum. İyi bir tasarım ekibiyle çalışmak istediğim için UI Designer pozisyonunda iş arıyorum. Aynı zamanda flutter ile uygulama geliştirmek istiyorum. https://www.linkedin.com/in/%C3%B6zge-ayaz-a7b3091b7/
+20:38:47 From Öykü Beliz Öztürk 0324220113 to Everyone:
+	Merhaba, ben Öykü. Bologna Üniversitesi’nde sinema okudum. Şu anda İstanbul Üniversitesi İngiliz Dili ve Edebiyatı öğrencisiyim. Eğitim danışmanı olarak çalışıyorum. Game Design, Narrative design ile ilgileniyorum. Unity ile oyun geliştirme alanında kendimi geliştirmek istiyorum. 
+	https://www.linkedin.com/in/oykubelizozturk/
+
+20:39:04 From Beyzanur Sürücü to Everyone:
+	Merhaba, Beyzanur Sürücü ben. İstanbul Üniversitesi Fars Dili ve Edebiyatı bölümünden bu sene mezun oldum. Aynı zamanda animasyon eğitimi aldım. Bir animasyon kısa filmde #animator ve #rigger olarak görev aldım. Aynı zamanda #storyboard deneyimim oldu. Oyun geliştirme alanında ilerlemek istiyorum.  İletişime geçmek isteyen olursa Linkedin hesabımı ve portfolyomu bırakıyorum. :) 	www.linkedin.com/in/beyza-sürücü-845889257	https://www.beyzanursurucu.com/
+
+20:39:15 From Emre Özdemir to Everyone:
+	#Yapay Zeka #Ankara #Proje #İş Arayışı	 	Merhaba ben Emre. Ankara Yıldırım Beyazıt Üniversitesi Bilgisayar Mühendisliği 3. Sınıf öğrencisiyim. Yapay zeka ve otonom sistemlerle ilgilenmekteyim. Okulumda faaliyet gösteren Hezarfen Kulübünün Otonom Araç takımında otonom sistemler takım kaptanı olarak görev yapmaktayım. Mobil tarafında bu eğitimin bana çok faydalı olacağını düşünüyorum.Herkese verimli bir dönem dilerim.	www.linkedin.com/in/emreozdemiir
+
+20:39:15 From Ali İhsan Turan to Everyone:
+	#Nigde #mobilgelistirme Merhaba ben Ali İhsan Niğde Ömer Halisdemir Üniversitesi bilgisayar mühendisliği 3. sınıf öğrencisiyim. Mobil alanda kendimi geliştirmekteyim ve bu alanda kariyer planım var. Bu alana ilgisi olan herkesi linkedin e beklerim. Linkedin hesabım -> www.linkedin.com/in/ali-ihsan-turan-ab651623a
+
+20:39:22 From meryem çiftci to Everyone:
+	#Proje #Ankara Selamlar, ben Meryem Çiftci. Burdur Mehmet Akif Ersoy Üniversitesinde Yönetim Bilişim Sistemleri 1. sınıf öğrencisiyim. Oyun ve Uygulama Akademisi sayesinde Unity ile oyun geliştirme konusunda kendimi geliştiriyorum. Ankara'daki arkadaşlar ile yüz yüze görüşüp tanışmayı çok isterim. Aynı şekilde Mehmet Akif Ersoy Üniversitesinde olan arkadaşlarla da mutlaka bir araya gelmeyi çok isterim                                                          Linkedin hesabım:https://www.linkedin.com/in/meryem-%C3%A7iftci-43a804192
+
+20:40:32 From Emre Onur to Everyone:
+	#Web #Istanbul #Freelancer Merhabalar ben Emre Onur 22 yaşındayım. Anadolu Üniversitesi Yönetim Bilişim Sistemleri 3. Sınıf öğrencisiyim birkaç ay önce full stack web developers olarak çalışıyordum yeni allanlara yelken açmaya çalışıyorum. Freelance veya proje bazlı olarak uzaktan çalışmalara katılabilirim. https://www.linkedin.com/in/emreonurkalafat Bana ulaşmak için linkedin kullanabilirsiniz.
+
+20:40:47 From Zeliha Uluyurt to Everyone:
+	Herkese merhaba, ben Zeliha. İstanbul Üniversitesi Çin Dili ve Edebiyatı 3. sınıf öğrencisiyim. Bu zamana kadar öğretmenlikten, satış temsilciliğine kadar birçok iş alanında deneyimim oldu. Ancak şu anda kendimi pixel art alanında geliştirmeye çalışıyorum. Çin'den birçok şirket çalışanıyla bağlantım var ve sektörden az çok bir bilgim var. #gamedesigner ve #gamedeveloper olarak iş ve kariyer hayatıma devam etmek istiyorum.	https://www.linkedin.com/in/zeliha-uluyurt/
+
+20:40:53 From Beyza Nur Çelik to Everyone:
+	#proje #konya Merhabalar, Ben Beyza Nur Çelik. KTO Karatay Üniversitesi Bilgisayar mühendisliği 2.sınıf öğrencisiyim. Kendimi Flutter üzerinden kendimi geliştirmeye çalışıyorum. Fikir alışverişi veya beraber güzel bir proje ortaya çıkarmak isterseniz bana ulaşabilirsiniz. www.linkedin.com/in/beyza-nur-çelik-b5177a25b
+
+20:40:56 From Feyza Öğmüş to Everyone:
+	Merhaba, ben Feyza Öğmüş. Konya Gıda ve Tarım Üniversitesi 3. sınıf öğrencisiyim. Şu anda Konya Teknokentte staj yapıyorum. LinkedIn hesabım: https://www.linkedin.com/in/sukranfeyzaogmus?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
+20:41:27 From Özgün Öykü Elçitepe to Everyone:
+	Merhaba ben Özgün Öykü, Web Tasarım ve Kodlama mezunu ve Yönetim Bilişim Sistemleri 3. sınıf öğrencisiyim. #ankara da yaşıyorum. #freelance olarak #webdesign yapıyorum. #gamedev ve #gamedesign alanları ile ilgileniyorum. Alanımı #oyungeliştirme üzerine geliştirme yolunda ilerliyorum. #unity ile #proje geliştirmeye yeni yeni başladım ve gelişmeye devam etmek istiyorum. İletişim kurmayı çok isterim. https://www.linkedin.com/in/özgün-öykü-elçitepe-545b0b284/
+
+20:41:40 From Muhammed Emre Ünaldı to Everyone:
+	#OyunVeUygulamaAkademisi #proje Herkese merhabalar ben Emre oyun geliştirme sektöründe daha yeni sayılırım henüz kendi başıma geliştirdiğim projem yok bu alanda projeler geliştirmek için oldukça heyecanlıyım https://www.linkedin.com/in/muhammed-emre-ünaldı-839b41200
+
+20:41:48 From Nurgül Ayten to Everyone:
+	#kocaeli Merhaba ben Nurgül Kocaeli Üniversitesi Bilgisayar mühendisliği 4. sınıf öğrencisiyim. Akademide #flutter alanında eğitim alıyorum. Linkedin hesabım: https://www.linkedin.com/in/nurgul-ayten
+
+20:42:31 From Ayşenur Çavuş to Everyone:
+	#Trabzon Merhabalar, ben Ayşenur Çavuş Atatürk Üniversitesi Grafik Tasarım mezunuyum. #İllüstrasyon , #GameArtla ilgileniyorum. Akademide Unity öğremeye çalışıyorum ve kendi oyunumu geliştirmek istiyorum. Sizlerle tanışmak çok isterim.https://www.linkedin.com/in/ayşenur-çavuş-165807210/
+
+20:42:33 From Hüseyin Medik to Everyone:
+	Merhaba ben Hüseyin Medik. İstanbul Nişantaşı Üniversitesi Dijital Oyun Tasarımı 2. Sınıf öğrencisiyim. Bölümümdende belli olduğu üzere oyun geliştirme ile ilgileniyorum. Daha önce #unity ve #unrealengine5 ile ilgili kurslarla kendimi geliştirmeye çalıştım. Şuanda akademi ve ünversitem doğrultusunda Unityde uzmanlaşmayı arzuluyorum.www.linkedin.com/in/hüseyin-medik-8b4004297
+20:42:51 From Hüseyin Medik to Everyone:
+	www.linkedin.com/in/hüseyin-medik-8b4004297
+2
+0:43:32 From Zehra Yılmaz to Everyone:
+	merhaba ben Zehra Yılmaz. Ankara da İşletme okuyorum. #işletme ve #teknolojiyi birleştirmek ve yapay zeka ile çalışmak gibi birkariyer hedefim var. Herkese verimli bir dönem dilerim. Profilim ;www.linkedin.com/in/zehra-yılmaz-0b1466183
+
+20:43:42 From Zeynep Koz to Everyone:
+	Herkese merhabalar. Ben Zeynep Koz #Düzce Üniversitesi %100 ingilizce Bilgisayar mühendisliği 2.sınıf öğrencisiyim. #C ve #C++ alanında çalışıyorum. #oyungelistirme alanında ilerlemek için çok heyecanlıyım. www.linkedin.com/in/zeynep-koz34
+
+20:44:38 From Beyza Yıldızlı to Everyone:
+	Merhabalar ben Beyza, bilgisayar mühendisliği 3. sınıf öğrencisiyim. 		Aktarmak istediğimiz hikayeleri ve düşünceleri oyunlar aracılığıyla anlatmanın çok etkili olduğuna inanıyorum. Bu yıl yaz tatilinde ilk oyun geliştirme eğitimimi aldım ve eğitim sonundaki gamejam ile bu alanda ilerlemek istediğime emin oldum.		Geçen sene Teknofest finallerine katılma şansım oldu bu yıl da bir oyun projesi ile tekrar Teknofest'e hazırlanıyorum. Yarışma sonrasında da projemi geliştirmeye devam etmeyi ve bu alanda bir kariyere sahip olmayı hedefliyorum.		Bağlantı kurmak isteyenler için linkedin profilim:	https://www.linkedin.com/in/beyzayildizli/
+
+20:44:39 From Gözde Kahraman to Everyone:
+	Herkese iyi akşamlar. Ben Gözde Kahraman, bilgisayar mühendisliği 3. sınıf öğrencisiyim. Geçen yıl biraz daha fazla siber güvenliğe ilgim vardı ama bu yıl oyun geliştirmeye merak saldım ve kendimi bu alanda geliştirmeye karar verdim :). Çeşitli online videolarla kendimi geliştirip, küçük oyunlar yapıyorum. Tanıştığımıza memnum oldum. Bana buradan ulaşabilirsiniz: https://www.linkedin.com/in/gozdekahraman/
+
+20:44:42 From hande kocak to Everyone:
+	Merhaba ben hande, konya gıda ve tarım üniversitesi #psikoloji 4. Sınıf öğrencisiyim.	Alanım doğrultusunda yapay zeka üzerinde projeler geliştiren bir ekibin parçası olmayı istiyorum.	www.linkedin.com/in/hande-koçak-7b4495272
+
+20:47:38 From Aymila Cevher to Everyone:
+	#Ankara #Kırıkkale Merhaba ben Aymila , Kırıkkale Üniversitesi Bilgisayar Mühendisliği 2. sınıf öğrencisiyim . Kendimi yazılım alanında #C#  # python alanında geliştiriyorum . Veri analizi alanında kariyerimi geliştirmek istiyorum .Ankara da yaşayan arkadaşlarla buluşmak isterim . Linked profilim : https://www.linkedin.com/in/aymila-cevher-01414b2
+
+20:48:07 From zeynep berfin ay to Everyone:
+	#istanbul #istatistik herkese merhabalar ben Zeynep Berfin Ay, MSGSÜ İstatistik bölümü 1. sınıf öğrencisiyim. Farklı kulüplerin network komitelerinde görev alıyorum. Ekonomi, proje yönetimi, veri analizi ve yönetim danışmanlık gibi alanlarda kendimi geliştirmek istiyorum. Elbette kendimi yazılım tarafında da geliştirmek için çalışmalara başladım.   https://www.linkedin.com/in/zeynep-berfin-ay-a14a1616a/
+
+20:50:47 From Esra Uğurbaş to Everyone:
+	#proje #unity #İstanbul	Merhaba ben Esra Uğurbaş Marmara Üniversitesi bilgisayar mühendisliği 2. sınıf öğrencisiyim. Machine learning üzerine araştırma yapıyorum. Unityde oyun projelerinde yer almak isterim.	Linkedin profilim ->	https://www.linkedin.com/in/esra-u%C4%9Furba%C5%9F-920505253/
+
+20:51:01 From İhsan Okan Ulu to Everyone:
+	Merhaba ben Ihsan okan ulu. Sabahattin Zaim üniversitesi bilgisayar mühendisliği 4. Sınıf ögrencisiyim.
+	https://www.linkedin.com/in/ihsan-okan-ulu-aab38a209/
+
+20:51:17 From Mustafa Berke ÖZCAN to Everyone:
+	Merhabalar! Ben Berke. Başkent Üniversitesi #bilgisayarmühendisliği 1. sınıf öğrencisiyim. Memleketim ve yaşadığım yer #ankara. #csharp hastasıyım. Hobi amaçlı, çeşitli yazılımlar geliştiriyorum (çoğunlukla #speedcubing ve #twistypuzzletheory ile ilgili). Az çok da #godot kullanarak 2d oyunlar geliştiriyorum. Linkedin hesabım: https://www.linkedin.com /in/berkeozcancode/
+
+20:51:52 From Seda Nur Guler to Everyone:
+	Herkese merhaba ben Seda Nur Güler. Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Uygulama geliştirme konusunda kendimi geliştirmek istiyorum. Eğer bu konuda veya daha farklı şeyler de olabilir fikirleriniz varsa beraber çalışabiliriz. Şu anda C# alanında çalışıyorum. Tanıştığıma memnun oldum. www.linkedin.com/in/seda-nur-güler-6217962a3
+
+20:54:50 From Hanne Betül Akdoğan to Everyone:
+	#İstanbul #İşArayışı 
+	Merhaba!
+	
+	Adım Hanne, Çukurova Üniversitesi Mimarlık Fakültesi öğrencisiyim ve yaklaşık 2 ay içinde mezun olacağım. İstanbul'da yaşıyorum ve oyun endüstrisinde bir Kreatif Sanatçı olarak çalışma arayışındayım, özellikle de oyun seviyeleri tasarlama konusunda ilgiliyim.
+	
+	Ekip üyesi olarak çalışmaktan keyif alıyorum ve hızlı öğrenen, çalışkan bir bireyim. Yaratma heyecanını paylaşan tutkulu insanlarla çalışmayı seviyorum. Kendimi özellikle SketchUp, Lumion ve Blender gibi araçlarla geliştiriyorum.
+	
+	Oyun endüstrisinde beni zorlayacak ve yeni şeyler öğrenebileceğim projelerde çalışmak istiyorum. Sizdeki ekibe katılmak ve birlikte yaratıcı projelere imza atmak için sabırsızlanıyorum.
+	
+	Saygılarımla,
+	Hanne Betül Akdoğan
+	
+	linkedin.com/in/hannebetül
+20:57:37 From Mustafa Çirci to Everyone:
+	Merhaba, ben Mustafa Çirci. İstanbul Üniversitesi-Cerrahpaşa Bilgisayar Mühendisliği 2.Sınıf öğrencisiyim. Kendimi geliştirmek ve yetenekli arkadaşlarla tanışabilmek için #OyunveUygulamaAkademisine başvurdum.#flutter ile uygulama geliştirme, ağ teknolojileri ve #sibergüvenlik alanlarında kendimi geliştirmeye çalışıyorum. 	https://www.linkedin.com/in/mustafacirci/
+
+21:03:43 From Merve Erat to Everyone:
+	Herkese iyi akşamlar, ben Merve Erat. Mimar Sinan Güzel Sanatlar Üniversitesi, İstatistik 3.sınıf öğrencisiyim. Yapay zeka ve oyun sektöründe ilerlemek istiyorum. Javascript ve C++ gibi dillerde çalışmaya başladım. Şimdi C# üzerine çalışıyorum. Sizlerle tanışmayı çok isterim. https://www.linkedin.com/in/meryem-merve-erat-023644255/	#istanbul #proje
+
+21:04:27 From Volkan Aslan to Everyone:
+	Merhaba, ben Volkan. Ankara’da İngilizce öğretmeni olarak çalışıyorum. Unity ile #oyungeliştirme üzerine kendimi geliştirmek istiyorum. Birbirimizden çok şeyler öğrenebileceğimizi düşünüyorum. Birlikte çalışabileceğim kişilerle tanışmayı çok isterim. 
+	
+	https://www.linkedin.com/in/volkan-aslan-342464b0/
+
+21:14:25 From Gamze Nur Erdem to Everyone:
+	#istanbul Merhabalar, ben Gamze Nur Erdem. Yeditepe Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Oyun ve Uygulama Akademisi'nde Unity üzerine dersler alıyorum. Daha önce web Frontend projelerinde deneyim kazandım. Ayrıca, 2023 yılında Teknofestte“Savaşan İHA" yarışmasında Zafer UAV takımında görev aldım. LinkedIn profilim: www.linkedin.com/in/gamze-nur-erdem-9116aa233
+2
+	#işarıyorum #istanbul #kahve Merhabalar, ben Ömer Talha Aktaş. Pamukkale Üniversitesi Sosyoloji Bölümü mezunuyum, hali hazırda Anadolu Üniversitesi Bilgisayar Programcılığı öğrencisiyim ve 42 İstanbul bursiyeriyim. 		Üniversite mezuniyetimden sonra çeşitli kurumlarda ve branşlarda öğretmenlik yaptım. Fakat daha sonrasında bu mesleğin beni mutlu etmediğini fark ettim. Üniversite yıllarımdan itibaren hobi olarak ilgilendiğim yazılım alanına yöneldim. Çeşitli kurumlarda eğitim aldım ve almaya da devam ediyorum. Kendi kendime projeler yapıyorum. 		Aktif olarak c# alanında iş arıyorum. İstanbulda olan arkadaşlarımla buluşup birer kahve içmekten çok mutlu olurum. 		Linkedin profilim: www.linkedin.com/in/omer-talha-aktas
+
+21:20:16 From Meltem Sena KOÇAK to Everyone:
+	Merhaba.Ben Meltem Sena KOÇAK.Fırat Üniversitesi 	Bilgisayar Mühendisliği öğrencisiyim.Kendimi #uygulama 	geliştirme alanında geliştiriyorum.Burada olmak ve sizlerle 	tanışmaktan mutluyum.Güzel bir dönem geçireceğimize 	inanıyorum.Herkese başarılar diliyorum.#proje #isarayisi	www.linkedin.com/in/meltemkocak
+
+21:23:31 From tubamina to Everyone:
+	Merhabalar, ben Tuba Mina bilgisayar mühendisliği son sınıf öğrencisiyim. Şimdiye kadar 3D model hazırlama konusunda kendimi geliştirdim bugünden itibaren ise planım burayı da takip ederek  küçük çaplı oyunlar tasarlamak. Gelecekte hayalim bir açık dünya oyununu her şey kendi tarzımda olacak şekilde geliştirebilmem. 	LinkedIn profil linkim : https://www.linkedin.com/in/tuba-mina-999976264
+
+21:26:21 From Nursima Bektaş to Everyone:
+	#gönüllülük#adana Merhaba ben Nursima Bektaş. Adana'da Yazılım Mühendisliği 2. sınıf öğrencisiyim. Oyun ve web alanlarında kendimi geliştirmek istiyorum. Aynı zamanda gönüllülük faaliyetleriyle ilgileniyorum. GSB Damla Gönüllüsüyüm.	linkedin profilim: www.linkedin.com/in/nursima-bektaş-834013292
+
+21:30:43 From Bedirhan Asanakutlu to Everyone:
+	#OyunGelistirme #GameDesign #Unity Selam ben Bedirhan, 19 yaşındayım Bahçeşehir Üniversitesinde Dijital Oyun Tasarımı öğrencisiyim, Oyun ve Uygulama Akademisinde Unity tarafındayım. güzel bir yolun henüz başlangıcındayım	https://www.linkedin.com/in/bedirhan-asanakutlu-1457032a1/
+
+
+
